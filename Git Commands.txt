@@ -1,3 +1,5 @@
 Clone repo: git clone
 check differences between remote/origin with Local: git status
 Add changes to git: git add <filename> / git add .  (to add all changes)
+Commit changes: git commit -m "<your commit message>"
+Push to remote/origin
