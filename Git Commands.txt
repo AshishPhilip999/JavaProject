@@ -1,0 +1,3 @@
+Clone repo: git clone
+check differences between remote/origin with Local: git status
+Add changes to git: git add <filename> / git add .  (to add all changes)
